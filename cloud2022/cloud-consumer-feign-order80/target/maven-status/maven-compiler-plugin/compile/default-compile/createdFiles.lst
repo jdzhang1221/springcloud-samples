@@ -1,0 +1,4 @@
+com/atjizhi/springcloud/service/PaymentFeginService.class
+com/atjizhi/springcloud/controller/OrderFeginController.class
+com/atjizhi/springcloud/config/FeignConfig.class
+com/atjizhi/springcloud/OrderFeginMain80.class

@@ -1,0 +1,4 @@
+com/atjizhi/springcloud/service/Impl/MessasgeProviderImpl.class
+com/atjizhi/springcloud/service/IMessageProvider.class
+com/atjizhi/springcloud/controller/SendMessageController.class
+com/atjizhi/springcloud/StreamMQMain8801.class

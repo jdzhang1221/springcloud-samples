@@ -1,0 +1,9 @@
+server:
+  port: 80
+
+spring:
+  application:
+    name: cloud-consumerzk-order
+  cloud:
+    zookeeper:
+      connect-string: 43.143.163.100:2181 # zk地址 43.143.163.100是linux地址

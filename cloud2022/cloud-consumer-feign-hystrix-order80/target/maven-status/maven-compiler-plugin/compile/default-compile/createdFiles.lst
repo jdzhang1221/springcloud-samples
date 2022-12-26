@@ -1,0 +1,4 @@
+com/atjizhi/springcloud/OrderHystrixMain80.class
+com/atjizhi/springcloud/service/PaymentHystrixService.class
+com/atjizhi/springcloud/controller/OrderHystirxController.class
+com/atjizhi/springcloud/service/PaymentFallbackService.class

@@ -1,0 +1,4 @@
+/Users/zhangjundong/工作/杂项/cloud2022/cloud-consumer-feign-hystrix-order80/src/main/java/com/atjizhi/springcloud/service/PaymentFallbackService.java
+/Users/zhangjundong/工作/杂项/cloud2022/cloud-consumer-feign-hystrix-order80/src/main/java/com/atjizhi/springcloud/controller/OrderHystirxController.java
+/Users/zhangjundong/工作/杂项/cloud2022/cloud-consumer-feign-hystrix-order80/src/main/java/com/atjizhi/springcloud/OrderHystrixMain80.java
+/Users/zhangjundong/工作/杂项/cloud2022/cloud-consumer-feign-hystrix-order80/src/main/java/com/atjizhi/springcloud/service/PaymentHystrixService.java
